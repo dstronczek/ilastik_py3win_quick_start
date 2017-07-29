@@ -1,0 +1,3 @@
+[ilastik]
+debug: true
+plugin_directories: ~/.ilastik/plugins,
